@@ -1,0 +1,12 @@
+@import "colors";
+@import "fonts";
+
+header{
+  color: $white;
+  font-family: $mainFont;
+  font-weight: $bolder;
+  margin-left: 75px;
+  margin-top: 61px;
+  font-size: 85px;
+  text-transform: uppercase;
+}
